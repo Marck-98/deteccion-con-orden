@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Control por Voz - Apolo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        #audioPlayer {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container d-flex flex-column justify-content-center align-items-center vh-100">
+        <header class="bg-primary text-white text-center py-3 w-100">
+            <h1>Control por Voz - Apolo</h1>
+        </header>
+    
+        <main class="d-flex justify-content-center align-items-center flex-grow-1">
+            <div class="card text-center p-5">
+                <img src="assets/img/micro.png" class="card-img-top mx-auto" style="width: 8rem;" alt="Micrófono">
+                <div class="card-body">
+                    <h2 id="outputText" class="text-center fs-4 fw-light">Di "APOLO" seguido de tu comando</h2>
+                    <button id="startBtn" class="btn btn-success m-3">Iniciar Reconocimiento</button>
+                    <h4 id="" class="text-center fs-6 text-danger"></h4>
+                    <audio id="audioPlayer" controls></audio>
+                </div>
+            </div>
+        </main>
+    
+        <footer class="bg-dark text-white text-center py-3 w-100">
+            <p>DESARROLLADO POR: MARCOS VELAZQUEZ ESQUITIN | IHC</p>
+        </footer>
+    </div>
+    
+    <script src="js/main.js"></script>
+</body>
+
+</html>

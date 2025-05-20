@@ -1,0 +1,924 @@
+2025-03-25 12:20:23 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12480 bytes
+2025-03-25 12:21:53 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 9600 bytes
+2025-03-25 12:22:00 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12000 bytes
+2025-03-25 12:22:20 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 15360 bytes
+2025-03-25 12:22:28 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 16320 bytes
+2025-03-25 12:24:59 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: Realizando vuelta a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 37920 bytes
+2025-03-25 12:26:33 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 90° derecha
+)
+
+Token a procesar: 90° derecha
+Texto a convertir: Girando 90 grados a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 44640 bytes
+2025-03-25 12:26:54 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 90° izquierda
+)
+
+Token a procesar: 90° izquierda
+Texto a convertir: Girando 90 grados a la izquierda
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 48480 bytes
+2025-03-25 12:29:37 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 10560 bytes
+2025-03-25 12:30:07 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 9600 bytes
+2025-03-25 12:30:15 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-03-25 12:30:20 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12000 bytes
+2025-03-25 12:31:05 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 10560 bytes
+2025-03-25 12:36:49 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 9600 bytes
+2025-03-25 12:37:42 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 10560 bytes
+2025-03-25 12:37:48 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-03-25 12:39:23 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-03-25 12:39:29 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 16800 bytes
+2025-03-25 12:39:36 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 16800 bytes
+2025-03-25 12:39:56 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: Realizando vuelta a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 37920 bytes
+2025-03-25 12:40:19 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta izquierda
+)
+
+Token a procesar: vuelta izquierda
+Texto a convertir: Realizando vuelta a la izquierda
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 36960 bytes
+2025-03-25 12:40:57 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-03-25 12:41:05 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12480 bytes
+2025-03-25 12:41:23 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 10560 bytes
+2025-03-25 12:41:56 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 17280 bytes
+2025-03-25 15:37:24 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => detener
+)
+
+Token a procesar: detener
+Texto a convertir: Deteniendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 10560 bytes
+2025-03-25 22:09:54 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-03-25 22:10:14 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 10080 bytes
+2025-03-25 22:10:35 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12000 bytes
+2025-03-25 22:10:47 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-03-25 22:10:54 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12000 bytes
+2025-03-25 22:11:01 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 16800 bytes
+2025-03-25 22:11:14 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: Realizando vuelta a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 37440 bytes
+2025-03-25 22:11:36 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-03-25 22:14:36 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: Realizando vuelta a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 36960 bytes
+2025-03-25 22:14:53 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: Realizando vuelta a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 38880 bytes
+2025-03-25 22:18:18 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 90° derecha
+)
+
+Token a procesar: 90° derecha
+Texto a convertir: Girando 90 grados a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 46560 bytes
+2025-03-25 22:18:31 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 90° izquierda
+)
+
+Token a procesar: 90° izquierda
+Texto a convertir: Girando 90 grados a la izquierda
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 45600 bytes
+2025-03-25 22:19:56 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => detener
+)
+
+Token a procesar: detener
+Texto a convertir: Deteniendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 13920 bytes
+2025-03-25 22:20:07 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 14880 bytes
+2025-03-25 22:20:13 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 17280 bytes
+2025-03-25 22:20:50 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12480 bytes
+2025-03-25 22:21:08 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12000 bytes
+2025-03-25 22:22:18 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: Realizando vuelta a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 37920 bytes
+2025-03-25 22:22:55 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: Realizando vuelta a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 33120 bytes
+2025-03-25 22:23:15 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 17280 bytes
+2025-03-25 22:23:23 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 15840 bytes
+2025-03-25 22:23:32 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 90° derecha
+)
+
+Token a procesar: 90° derecha
+Texto a convertir: Girando 90 grados a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 44160 bytes
+2025-03-25 22:23:41 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta izquierda
+)
+
+Token a procesar: vuelta izquierda
+Texto a convertir: Realizando vuelta a la izquierda
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 38880 bytes
+2025-03-25 22:23:49 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12000 bytes
+2025-03-25 22:23:55 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 13920 bytes
+2025-03-25 22:24:01 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 16800 bytes
+2025-03-25 22:24:42 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: Retrocediendo
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 17280 bytes
+2025-03-25 22:24:48 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12000 bytes
+2025-03-25 22:24:56 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: Avanzando
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-03-25 22:25:06 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta izquierda
+)
+
+Token a procesar: vuelta izquierda
+Texto a convertir: Realizando vuelta a la izquierda
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 32160 bytes
+2025-03-25 22:25:25 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta izquierda
+)
+
+Token a procesar: vuelta izquierda
+Texto a convertir: Realizando vuelta a la izquierda
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 36480 bytes
+2025-03-25 22:25:32 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: Realizando vuelta a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 38400 bytes
+2025-03-25 22:26:20 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: vuelta derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 18720 bytes
+2025-03-25 22:26:43 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 360° derecha
+)
+
+Token a procesar: 360° derecha
+Texto a convertir: Girando 360 grados a la derecha
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 45600 bytes
+2025-05-13 12:03:08 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: ADELANTE
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-05-13 12:03:51 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => detener
+)
+
+Token a procesar: detener
+Texto a convertir: DETENER
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 10560 bytes
+2025-05-13 12:04:20 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: V_ADE_DER
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12000 bytes
+2025-05-13 12:04:45 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 90° derecha
+)
+
+Token a procesar: 90° derecha
+Texto a convertir: G_90_DER
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 17280 bytes
+2025-05-13 12:05:55 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 360° izquierda
+)
+
+Token a procesar: 360° izquierda
+Texto a convertir: G_360_IZQ
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 22560 bytes
+2025-05-13 12:08:03 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: V_ADE_DER
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-05-13 12:08:22 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: ADELANTE
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-05-13 12:39:39 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => ADELANTE
+)
+
+Token a procesar: ADELANTE
+Texto a convertir: Comando recibido
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 21600 bytes
+2025-05-13 12:39:47 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => ATRAS
+)
+
+Token a procesar: ATRAS
+Texto a convertir: Comando recibido
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 18240 bytes
+2025-05-13 12:40:03 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => vuelta derecha
+)
+
+Token a procesar: vuelta derecha
+Texto a convertir: V_ADE_DER
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 12480 bytes
+2025-05-13 12:40:29 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => 360° izquierda
+)
+
+Token a procesar: 360° izquierda
+Texto a convertir: G_360_IZQ
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 21600 bytes
+2025-05-13 12:42:28 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => detener
+)
+
+Token a procesar: detener
+Texto a convertir: DETENER
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-05-13 13:36:38 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: ADELANTE
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-05-13 13:38:17 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => ADELANTE
+)
+
+Token a procesar: ADELANTE
+Texto a convertir: Comando recibido
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 20640 bytes
+2025-05-13 13:48:54 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: ADELANTE
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-05-13 14:00:15 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: ADELANTE
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 8160 bytes
+2025-05-13 14:04:07 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: ADELANTE
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 9120 bytes
+2025-05-13 14:04:30 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => avanzar
+)
+
+Token a procesar: avanzar
+Texto a convertir: ADELANTE
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11520 bytes
+2025-05-13 14:05:30 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: ATRAS
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-05-13 14:06:31 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: ATRAS
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-05-13 14:06:58 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: ATRAS
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
+2025-05-13 14:07:29 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: ATRAS
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 10560 bytes
+2025-05-13 18:22:38 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: ATRAS
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 9120 bytes
+2025-05-13 18:23:13 - Inicio de solicitud
+Datos recibidos: Array
+(
+    [token] => retroceder
+)
+
+Token a procesar: retroceder
+Texto a convertir: ATRAS
+Enviando solicitud a OpenAI...
+Código HTTP de respuesta: 200
+Respuesta de audio recibida, tamaño: 11040 bytes
