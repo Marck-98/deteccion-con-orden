@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Evento de clic en el botón para iniciar el reconocimiento de voz
     startBtn.addEventListener("click", () => {
+        const msgText = document.getElementById("msgText");
         stoppedManually = false;
         recognition.start();
         startBtn.disabled = true;
