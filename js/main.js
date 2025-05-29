@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", () => {
             let token = directCommands[command];
         
             if (!token) {
-                const response = await fetch('http://98.80.183.34/deteccion-con-orden/api/interpret.php', {
+                const response = await fetch('http://44.204.125.124/deteccion-con-orden/api/interpret.php', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             if (token) {
-                const audioResponse = await fetch('http://98.80.183.34/deteccion-con-orden/api/speech.php', {
+                const audioResponse = await fetch('http://44.204.125.124/deteccion-con-orden/api/speech.php', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
