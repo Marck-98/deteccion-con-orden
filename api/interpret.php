@@ -13,7 +13,7 @@ require_once 'config.php';
 function enviarComandoAPI($status) {
     $payload = json_encode(["status" => $status]);
 
-    $ch = curl_init("http://44.204.125.124/iot-api-php/controllers/AddCommandFromDetection.php");
+    $ch = curl_init("http://13.219.234.91/iot-api-php/controllers/AddCommandFromDetection.php");
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
     curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
